@@ -1,11 +1,16 @@
 site_name: ecd-ai-paper-daily
+---
+hide:
+  - navigation
+  # - toc
+---
 
 theme:
   name: material
   custom_dir: overrides
   features:
-    # - navigation.indexes
-    - toc.integrate 
+    - navigation.indexes
+    # - toc.integrate 
 repo_url: https://github.com/ai4ecd/ecd-arxiv-paper-daily
 
 markdown_extensions:
