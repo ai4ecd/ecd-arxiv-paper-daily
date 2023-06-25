@@ -1,4 +1,5 @@
 infant:
   infant: '"infant"or"neonatal"'
-heart rate:
-  heart rate: '"infant"and"neonatal"'
+  infant: '"infant"and"neonatal"'
+  infant: '"infant" or "neonatal"'
+  infant: '"infant "or"neonatal "'
