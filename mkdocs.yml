@@ -1,9 +1,4 @@
 site_name: ecd-ai-paper-daily
----
-hide:
-  - navigation
-  # - toc
----
 
 theme:
   name: material
