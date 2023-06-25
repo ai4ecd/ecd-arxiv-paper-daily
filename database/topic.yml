@@ -1,4 +1,4 @@
 infant:
   infant: '"infant"or"neonatal"'
 heart rate:
-  heart rate: '"wearable device"and"heart rate"'
+  heart rate: '"infant"and"neonatal"'
