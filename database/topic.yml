@@ -3,3 +3,5 @@ infant:
 ai:
   infant+ai: '"infant "and"AI"'
   neonatal+ai: '"neonatal "and"AI"'
+tools:
+  "hine": '"hammersmith infant neurological examination"'
