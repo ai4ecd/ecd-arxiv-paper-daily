@@ -1,5 +1,5 @@
 infant:
-  infant: '"infant"or"neonatal"'
-  infant: '"infant"and"neonatal"'
-  infant: '"infant" or "neonatal"'
-  infant: '"infant "or"neonatal "'
+  infant1: '"infant"or"neonatal"'
+  infant2: '"infant"and"neonatal"'
+  infant3: '"infant" or "neonatal"'
+  infant4: '"infant "or"neonatal "'
